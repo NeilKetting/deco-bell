@@ -468,7 +468,7 @@ h1, h2, h3, h4, h5,
   padding: 1rem; }
 
   .site-logo a img{
-    width: 70%;
+    width: 100%;
   }
   @media (max-width: 991.98px) {
     .site-navbar {
