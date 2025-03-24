@@ -468,7 +468,7 @@ h1, h2, h3, h4, h5,
   padding: 1rem; }
 
   .site-logo a img{
-    width: 100%;
+    width: 90%;
   }
   @media (max-width: 991.98px) {
     .site-navbar {
@@ -487,7 +487,10 @@ h1, h2, h3, h4, h5,
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
         float: left;
-        position: relative; } }
+        position: relative; }
+        .site-logo{
+          width: 60%;
+        } }
   .site-navbar .site-navigation.border-bottom {
     border-bottom: 1px solid white !important; }
   .site-navbar .site-navigation .site-menu {
